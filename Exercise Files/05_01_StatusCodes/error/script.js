@@ -1,5 +1,5 @@
 //Remember to replace the api key with YOUR api key
-fetch('https://api.giphy.com/v1/gifs/randomm?api_key=bwBAcjO5j2Cec47TG7flBCn7Gdw57Fo8&tag=sea+otter&rating=g')
+fetch('https://api.giphy.com/v1/gifs/randomm?api_key=SFTOzVUbNHbfOwhxiPeXWdDMpfT5tH98&tag=sea+otter&rating=g')
 .then(function(response) {
 	return response.json();
 })
